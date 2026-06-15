@@ -81,18 +81,15 @@ The website is fully responsive and optimized for:
 - Tablets
 - Mobile Phones
 
-
 ## 📂 Project Structure
-
-```text
 Portfolio/
 │
-├── index.html
-├── style.css
-├── index.js
-├── anchal.jpeg
+├── index.html          # Main website page
+├── style.css           # Styling and design
+├── index.js            # JavaScript functionality
+├── anchal.jpeg         # Profile image
+├── Anchal_Sharma_Resume.pdf
 └── README.md
-
 
 ## 👩 Author
 
@@ -113,3 +110,6 @@ This portfolio website was created by Anchal Sharma for learning and professiona
 ## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+
+
