@@ -82,14 +82,17 @@ The website is fully responsive and optimized for:
 - Mobile Phones
 
 ## 📂 Project Structure
+
+```text
 Portfolio/
 │
-├── index.html          # Main website page
-├── style.css           # Styling and design
-├── index.js            # JavaScript functionality
-├── anchal.jpeg         # Profile image
+├── index.html
+├── style.css
+├── index.js
+├── anchal.jpeg
 ├── Anchal_Sharma_Resume.pdf
 └── README.md
+```
 
 ## 👩 Author
 
